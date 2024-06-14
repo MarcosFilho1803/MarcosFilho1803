@@ -11,7 +11,7 @@ Comecei a programar a 2 anos atraz e me encontrei na área de desenvolvimento de
 * ✉️  Você pode entrar em contato comigo pelo email: [markinhusfilho@Outlook.com](mailto:markinhusfilho@Outlook.com)
 * 🧠  No momento estou aprendendo: Utilização de WebSockets na comunicação cliente-sevidor
 
-### Skills
+### Habilidades
 
 
 <p align="left">
@@ -31,9 +31,9 @@ Comecei a programar a 2 anos atraz e me encontrei na área de desenvolvimento de
     </picture>
   </a>
 </p>
-
-### Conquistas
 <br>
+### Conquistas
+
 <b>Minhas Estatísticas do GitHub</b>
 
 <a href="http://www.github.com/MarcosFilho1803">
