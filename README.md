@@ -1,37 +1,19 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <link rel="stylesheet" href="styles.css"> <!-- Link para seu arquivo CSS -->
-    
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Projeto Bootstrap</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
 </head>
 <body>
-    <div class="sidebar">
-        <h2>Dashboard</h2>
-        <a href="#overview">Visão Geral</a>
-        <a href="#reports">Relatórios</a>
-        <a href="#analytics">Análises</a>
-        <a href="#settings">Configurações</a>
-    </div>
-    <div class="header">
-        <h1>Dashboard</h1>
-    </div>
-    <div class="main">
-        <div class="card">
-            <h2>Visão Geral</h2>
-            <p>Conteúdo de visão geral aqui.</p>
-        </div>
-        <div class="card">
-            <h2>Relatórios</h2>
-            <p>Conteúdo de relatórios aqui.</p>
-        </div>
-        <div class="card">
-            <h2>Análises</h2>
-            <p>Conteúdo de análises aqui.</p>
-        </div>
-        <div class="card">
-            <h2>Configurações</h2>
-            <p>Conteúdo de configurações aqui.</p>
-        </div>
-    </div>
+    <!-- Bootstrap JS e dependências -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </body>
 </html>
