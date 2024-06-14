@@ -20,14 +20,27 @@ Comecei a programar a 2 anos atraz e me encontrei na área de desenvolvimento de
 
 
 
-### Socials
+### Redes Sociais
 
-<p align="left"> <a href="https://www.github.com/MarcosFilho1803 " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <a href="https://www.github.com/MarcosFilho1803" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
+</p>
 
-### Badges
+### Conquistas
 
-<b>My GitHub Stats</b>
+<b>Minhas Estatísticas do GitHub</b>
 
-<a href="http://www.github.com/MarcosFilho1803"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosFilho1803 &stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/MarcosFilho1803">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosFilho1803&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 
-<a href="https://github.com/MarcosFilho1803" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFilho1803 &langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/MarcosFilho1803" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFilho1803&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
+
