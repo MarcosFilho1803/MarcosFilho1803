@@ -1,9 +1,3 @@
-
-### index.html
-
-O arquivo HTML principal que contém a estrutura do dashboard.
-
-```html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
