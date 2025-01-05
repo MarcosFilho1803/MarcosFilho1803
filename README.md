@@ -5,7 +5,7 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desenvolvedor Web | FullStack | Mobile
 --------------------------------------
 
-Comecei a programar a 2 anos atraz e me encontrei na área de desenvolvimento de APIs no BackEnd, e React, React Native com Bootstrap no FrontEnd
+Comecei a programar a 3 anos atraz e me encontrei na área de desenvolvimento de APIs no BackEnd, e React, React Native com Bootstrap no FrontEnd
 
 * 🌍  Moro em Presidente Prudente SP.
 * ✉️  Você pode entrar em contato comigo pelo email: [marcospfilho1803@gmail.com](mailto:marcospfilho1803@gmail.com)
