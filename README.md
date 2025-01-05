@@ -7,9 +7,9 @@ Desenvolvedor Web | FullStack | Mobile
 
 Comecei a programar a 2 anos atraz e me encontrei na área de desenvolvimento de APIs no BackEnd, e React, React Native com Bootstrap no FrontEnd
 
-* 🌍  Moro em Presidente Prudente SP
-* ✉️  Você pode entrar em contato comigo pelo email: [markinhusfilho@Outlook.com](mailto:markinhusfilho@Outlook.com)
-* 🧠  No momento estou aprendendo: Utilização de WebSockets na comunicação cliente-sevidor
+* 🌍  Moro em Presidente Prudente SP.
+* ✉️  Você pode entrar em contato comigo pelo email: [marcospfilho1803@gmail.com](mailto:marcospfilho1803@gmail.com)
+* 🧠  No momento estou aprendendo: .Net Tecnologia para aprimorar meus conhecimentos.
 
 ### Habilidades
 
